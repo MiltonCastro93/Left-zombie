@@ -81,6 +81,9 @@ Entre las áreas de aprendizaje y aplicación se destacan:
   <img src="https://github.com/MiltonCastro93/Left-zombie/blob/main/Captura%20de%20pantalla%202025-11-11%20120200.png" width="400" style="border-radius:10px; margin:5px;"/>
   <img src="https://github.com/MiltonCastro93/Left-zombie/blob/main/Captura%20de%20pantalla%202025-11-11%20120113.png" width="400" style="border-radius:10px; margin:5px;"/>  
   <img src="https://github.com/MiltonCastro93/Left-zombie/blob/main/Captura%20de%20pantalla%202025-11-11%20120132.png" width="400" style="border-radius:10px; margin:5px;"/>
+  <img src="https://github.com/MiltonCastro93/Left-zombie/blob/main/Captura%20de%20pantalla%202025-10-16%20221308.png" width="400" style="border-radius:10px; margin:5px;"/>
+  <img src="https://github.com/MiltonCastro93/Left-zombie/blob/main/Captura%20de%20pantalla%202025-10-16%20221632.png" width="400" style="border-radius:10px; margin:5px;"/>  
+  <img src="https://github.com/MiltonCastro93/Left-zombie/blob/main/Captura%20de%20pantalla%202025-10-16%20221650.png" width="400" style="border-radius:10px; margin:5px;"/>
 </p>
 
 📺 Video Preview
