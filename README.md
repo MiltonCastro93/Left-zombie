@@ -78,9 +78,13 @@ Entre las áreas de aprendizaje y aplicación se destacan:
 ## 🖼️ Capturas del Proyecto
 
 <p align="center">
-  <img src="https://ruta-a-tu-imagen-1.png" width="400" style="border-radius:10px; margin:5px;"/>
-  <img src="https://ruta-a-tu-imagen-2.png" width="400" style="border-radius:10px; margin:5px;"/>
+  <img src="https://github.com/MiltonCastro93/Left-zombie/blob/main/Captura%20de%20pantalla%202025-11-11%20120200.png" width="400" style="border-radius:10px; margin:5px;"/>
+  <img src="https://github.com/MiltonCastro93/Left-zombie/blob/main/Captura%20de%20pantalla%202025-11-11%20120113.png" width="400" style="border-radius:10px; margin:5px;"/>  
+  <img src="https://github.com/MiltonCastro93/Left-zombie/blob/main/Captura%20de%20pantalla%202025-11-11%20120132.png" width="400" style="border-radius:10px; margin:5px;"/>
 </p>
+
+📺 Video Preview
+<p align="center"> <a href="https://www.youtube.com/watch?v=ZZgoD3Js_xs&t=1s" target="_blank"> <img src="https://img.youtube.com/vi/ZZgoD3Js_xs/hqdefault.jpg" width="480" style="border-radius:10px;"/> </a> <br> <sub>👉 Click en la imagen para ver el video en YouTube</sub> </p>
 
 ---
 
