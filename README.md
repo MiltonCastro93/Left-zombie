@@ -101,8 +101,8 @@ Entre las áreas de aprendizaje y aplicación se destacan:
 - **VFX Niagara** (efectos de partículas)
 
 - **Blender**
-> Baul (Modelado, Rig, Texturizado en Blender)
-> Cruz (Modelado en Blender)
+> Baul (Modelado, Rig, Texturizado)
+> Cruz (Modelado)
 
 ---
 
