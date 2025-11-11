@@ -84,6 +84,8 @@ Entre las áreas de aprendizaje y aplicación se destacan:
   <img src="https://github.com/MiltonCastro93/Left-zombie/blob/main/Captura%20de%20pantalla%202025-10-16%20221308.png" width="400" style="border-radius:10px; margin:5px;"/>
   <img src="https://github.com/MiltonCastro93/Left-zombie/blob/main/Captura%20de%20pantalla%202025-10-16%20221632.png" width="400" style="border-radius:10px; margin:5px;"/>  
   <img src="https://github.com/MiltonCastro93/Left-zombie/blob/main/Captura%20de%20pantalla%202025-10-16%20221650.png" width="400" style="border-radius:10px; margin:5px;"/>
+  <img src="https://github.com/MiltonCastro93/Left-zombie/blob/main/Captura%20de%20pantalla%202025-11-11%20133208.png" width="400" style="border-radius:10px; margin:5px;"/>  
+  <img src="https://github.com/MiltonCastro93/Left-zombie/blob/main/Captura%20de%20pantalla%202025-11-11%20133614.png" width="400" style="border-radius:10px; margin:5px;"/>
 </p>
 
 📺 Video Preview
@@ -93,12 +95,14 @@ Entre las áreas de aprendizaje y aplicación se destacan:
 
 ## 🧰 Herramientas Utilizadas
 
-- **Unreal Engine 5**  
-- **Blueprint Visual Scripting**  
-- **Blender** (modelado del baúl y cruz)  
-- **Substance Painter / Quixel Mixer** (texturizado)  
-- **Audacity** (procesado de sonidos)  
-- **VFX Niagara** (efectos de partículas)  
+- **Unreal Engine 5**
+- **Blueprint Visual Scripting**
+- **Audacity** (procesado de sonidos)
+- **VFX Niagara** (efectos de partículas)
+
+- **Blender**
+> Bual (Modelado, Rig, Texturizado en Blender)
+> Cruz (Modelado en Blender)
 
 ---
 
